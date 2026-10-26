@@ -1,0 +1,1 @@
+print("ez egy új sor!")
