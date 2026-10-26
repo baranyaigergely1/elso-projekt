@@ -1,1 +1,1 @@
-print("ez egy új sor!")
+print("Ez egy új sor!")
